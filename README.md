@@ -4,7 +4,7 @@
 
 **Given information**
 1.	1 Port – Hamburg port
-2.	3 DCs – Bremen, Berlin, Stuttgart. Each DC has a fixed cost ($10,000,000$) for setup and operations. It can handle an unlimited number of quantities.
+2.	3 DCs – Bremen, Berlin, Stuttgart. Each DC has a fixed cost ($10,000,000) for setup and operations. It can handle an unlimited number of quantities.
 3.	28 customers – Hanover, Rostock, Kiel, Trier, Karlsruhe etc. All customers are situated in German cities. Each city has a specific demand quantity (1000 units) which must be exactly met.
 4.	Cost of transporting per quantity per kilometre is given.  c = 200$
 
